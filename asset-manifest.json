@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Drum/static/css/main.3b6c93df.css",
+    "main.js": "/Drum/static/js/main.45cd8cae.js",
+    "static/js/787.e9bed731.chunk.js": "/Drum/static/js/787.e9bed731.chunk.js",
+    "static/media/logo.svg": "/Drum/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Drum/index.html",
+    "main.3b6c93df.css.map": "/Drum/static/css/main.3b6c93df.css.map",
+    "main.45cd8cae.js.map": "/Drum/static/js/main.45cd8cae.js.map",
+    "787.e9bed731.chunk.js.map": "/Drum/static/js/787.e9bed731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b6c93df.css",
+    "static/js/main.45cd8cae.js"
+  ]
+}
